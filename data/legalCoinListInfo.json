@@ -1,0 +1,38 @@
+{
+  "statusCode": 200,
+  "message": "操作成功",
+  "data": [
+    {
+      "virtualCoinCode": "23fa72fc9dce446992cc22ab9be021bb",
+      "blockBalance": "0",
+      "fee": 0.1,
+      "coinlogo": "http://47.52.238.44:9000/upload/3F49307388BD4FD19FE75227EBD0A68A.png",
+      "logocolor": "#8A2BE2",
+      "totalCount": "0",
+      "userCode": "00000015",
+      "balance": "0",
+      "rechargeAddress": "0x9ae886d4f9a5e7f15c89643db8aaa64a85724da9",
+      "isWithdraw": 1,
+      "isRecharge": 1,
+      "rechargeQRAddress":"../../../static/images/trade-account/qrcode.png",
+      "shortName": "ZBC",
+      "coinTypeName": "ZBC"
+    },
+    {
+      "virtualCoinCode": "b3f6feefc997405fbd512ec744ada79f",
+      "blockBalance": "187932.759337",
+      "fee": 0.0,
+      "coinlogo": "http://47.52.238.44:9000/upload/4CCACE75C4AE45709214CF87EFFA2191.png",
+      "logocolor": "#9B30FF",
+      "totalCount": "999099268.759337",
+      "userCode": "00000015",
+      "balance": "998911336",
+      "rechargeAddress": "14Q3gtBpPUSTn9eYFXLqTEj432hkVJCbMH",
+      "rechargeQRAddress":"../../../static/images/trade-account/qrcode.png",
+      "isWithdraw": 1,
+      "isRecharge": 1,
+      "shortName": "USDT",
+      "coinTypeName": "USDT"
+    }
+  ]
+}

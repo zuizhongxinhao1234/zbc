@@ -1,0 +1,25 @@
+{
+  "result": {
+    "pageCount": 3,
+    "totalSize": 24,
+    "pageIndex": 1,
+    "pageSize": 8,
+    "data": [{
+        "uId": "00000015",
+        "ipArea": "中国-四川-成都",
+        "code": "6be9c936374340ef945cd42c8e60af21",
+        "ip": "222.211.206.111",
+        "loginDate": "2018-05-15 07:44:37",
+        "facilityName": "FIREFOX"
+    }, {
+        "uId": "00000015",
+        "ipArea": "中国-四川-成都",
+        "code": "b20ff58e919543dfac6c572843cda6ac",
+        "ip": "222.211.204.252",
+        "loginDate": "2018-05-02 09:58:49",
+        "facilityName": "FIREFOX"
+    }]
+  },
+  "message": "操作成功",
+  "statusCode": 200
+}

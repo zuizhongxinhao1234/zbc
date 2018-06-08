@@ -1,0 +1,17 @@
+{
+	"name": "BTC-59fea72a214944e294c8e8e5c60cd898_USDT-b3f6feefc997405fbd512ec744ada79f",
+  "timezone": "Asia/Shanghai",
+	"minmovement": 1,
+	"minmovement2": 0,
+	"pointvalue": 1,
+	"session": "24x7",
+	"has_no_volume": false,
+	"description": "BTC/USDT",
+	"type": "bitcoin",
+	"pricescale": 100,
+  "ticker": "59fea72a214944e294c8e8e5c60cd898-b3f6feefc997405fbd512ec744ada79f",
+  "has_intraday":true,
+  "has_daily":true,
+  "has_weekly_and_monthly":true,
+  "intraday_multipliers": ["1", "5", "15", "30", "60","240", "1D","5D", "1W", "1M"]
+}

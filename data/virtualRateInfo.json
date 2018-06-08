@@ -1,0 +1,23 @@
+{
+  "data": [{
+    "tradefee": 0.0,
+    "leastWithdraw": 0.1,
+    "name": "ZBC",
+    "minwithdrawfee": 0.1,
+    "coinlogo": "http://47.89.19.38:10081/upload/3F49307388BD4FD19FE75227EBD0A68A.png",
+    "donate": "0.0",
+    "shortName": "ZBC",
+    "withdrawfee": 10.0
+  }, {
+    "tradefee": 10.0,
+    "leastWithdraw": 0.1,
+    "name": "BTC",
+    "minwithdrawfee": 0.0,
+    "coinlogo": "http://47.89.19.38:10081/upload/EAEACC92E5C64AA995F74CB47659FFC3.png",
+    "donate": "0.0",
+    "shortName": "BTC",
+    "withdrawfee": 0.0
+  }],
+  "message": "操作成功",
+  "statusCode": 200
+}
